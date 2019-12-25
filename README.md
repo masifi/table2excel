@@ -1,2 +1,2 @@
 # table2excel
-Pure javascript html table to Excel importer
+Pure javascript html table to Excel exporter
