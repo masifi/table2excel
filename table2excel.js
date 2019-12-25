@@ -2,8 +2,8 @@
  * Table2Excel JS PLUGIN
  *
  * Table2Excel is a ES6 javscript html table to excel file exporter, 
- * this plgin originally is inspired from jQuery table2excel plgin, 
- * but in this plugin the jQuery dependency is removed.
+ * this plgin originally inspired from jQuery table2excel plgin, 
+ * but in this fork the jQuery dependency is removed.
  * twitter: @masiifi
  * release date: 26/12/2019
  */
