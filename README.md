@@ -18,11 +18,12 @@ Usage
 Create and object `obj` of `Table2Eacel(element, options)` then call `obj.export()`
 
 ### Config
-- element: is an element id or class
-- option is a configuration that includes:
-  - exlude: a given id and class name is skiped during the export.
-  - filename: is a exported file name.
-see the below example
+- `element` is an element `id` or `class`.
+- `option` is a configuration that includes:
+  - `exlude` a given `id` and `class` name is skiped during the export.
+  - `filename` is a exported file name.  
+
+see the below example that exports a `<table id="tbl">`
 ```
 let t2e = new Table2Excel('#tbl', {
   exclude: "",
