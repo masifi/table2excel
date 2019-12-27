@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/masifi/table2excel/issues"
   },
-  "homepage": "https://github.com/masifi/table2excel#readme"
+  "homepage": "https://github.com/masifi/table2excel#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@masifi"
+  }
 }
