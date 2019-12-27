@@ -1,3 +1,25 @@
 {
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "name": "table2excel",
+  "version": "1.0.0",
+  "description": "Pure javascript html table to Excel exporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masifi/table2excel.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "html5",
+    "excel"
+  ],
+  "author": "Imad Hadi <imadmasifi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masifi/table2excel/issues"
+  },
+  "homepage": "https://github.com/masifi/table2excel#readme"
 }
