@@ -1,5 +1,5 @@
 {
-  "name": "table2excel",
+  "name": "es6-table2excel",
   "version": "1.0.0",
   "description": "Pure javascript html table to Excel exporter",
   "scripts": {
