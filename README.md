@@ -18,7 +18,7 @@ Load `table2excel.min.js` in the project header:
 
 ## Usage
 
-Create and object `obj` of `Table2Eacel(element, options)` then call `obj.export()`
+Create and object `obj` of `Table2Excel(element, options)` then call `obj.export()`
 
 ### Config
 
